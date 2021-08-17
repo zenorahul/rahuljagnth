@@ -1,4 +1,5 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ### Hi, I’m @rahuljagnth
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I’m @rahuljagnth
+<br>
 <a href="https://www.instagram.com/rahuljagnth/">
   <img align="left" alt="Rahul Jagannath | Instagram" width="22px" src="<img height="32" width="32" src="" />" />
 </a>
