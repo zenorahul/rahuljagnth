@@ -1,5 +1,5 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I’m @rahuljagnth
-<br><br>
+<br>
 <a href="https://www.linkedin.com/in/rahuljagnth/">
   <img align="left" alt="Rahul Jagannath | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -12,7 +12,7 @@
 <a href="https://www.youtube.com/channel/UCw1-NdCugu5NCImg6DOx4Mg">
   <img align="left" alt="Rahul Jagannath | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
-<br>
+<br><br>
 ![](https://visitor-badge.glitch.me/badge?page_id=rahuljagnth)
 <br />
 
