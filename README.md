@@ -16,7 +16,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=rahuljagnth)
 <br />
 
-- 👀 I’m interested in software programming field, hence open to work.
+- 👀 I’m interested in Software programming field, Open to work.
 - 🌱 I’m currently learning JavaScript and latex.
 - 📫 Reach me: [EmailID](mailto:rahuljug@gmail.com)
 
