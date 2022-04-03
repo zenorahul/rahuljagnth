@@ -7,10 +7,10 @@
   <img align="left" alt="Rahul Jagannath | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.instagram.com/rahuljagnth">
-  <img align="left" alt="Rahul Jagannath | LinkedIN" width="22px" src="https://image.flaticon.com/icons/png/512/174/174855.png" />
+  <img align="left" alt="Rahul Jagannath | Instagram" width="22px" src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-new-logo-vector-download-13.png" />
 </a>
 <a href="https://www.youtube.com/channel/UCw1-NdCugu5NCImg6DOx4Mg">
-  <img align="left" alt="Rahul Jagannath | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+  <img align="left" alt="Rahul Jagannath | YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
 <br><br>
 ![](https://visitor-badge.glitch.me/badge?page_id=rahuljagnth)
